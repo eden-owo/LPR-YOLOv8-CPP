@@ -43,9 +43,9 @@ make
 
 **Example Output:**
 
-![image](https://github.com/user-attachments/assets/26527668-1482-43aa-b30f-70f62233538e)
+![image](https://github.com/eden-owo/LPR-YOLOv8-CPP/blob/master/imgs/output_cmd.png)
 
-![image](https://github.com/user-attachments/assets/d9091582-1628-438a-85d2-48f4e4654527)
+![image](https://github.com/eden-owo/LPR-YOLOv8-CPP/blob/master/imgs/output_frame.png)
 
 
 ## 📝 Notes
